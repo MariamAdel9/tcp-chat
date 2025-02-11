@@ -68,7 +68,7 @@ To change your name while in the chat, type:
 ```
 
 ### Example Chat
- (image.png)
+![Example chat](image.png)
 
 ## Log Files
 
