@@ -73,3 +73,10 @@ To change your name while in the chat, type:
 ## Log Files
 
 Every chat session is logged automatically. Logs include timestamps, usernames, and messages, and are saved in the main directory with a timestamped filename.
+
+Authours
+1- Duaa AlMahal (dalmahal)
+
+2- Mariam Adel (maadel) https://github.com/MariamAdel9
+
+3- Qassim Zuhair (qzuhair)
